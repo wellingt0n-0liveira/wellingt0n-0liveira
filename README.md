@@ -20,6 +20,29 @@ Links
 
 ![texto da imagem](https://imagen.research.google/main_gallery_images/a-brain-riding-a-rocketship.jpg)
 
+`crase`
+
+```bash
+bloco de codigo
+apt install vim
+```
+
+> Texto das Citações
+>
+>>subcitação, exemplo o nome de que esta citando
+
+Tabelas
+| cabeçalho 1 | Cabeçalho 2|
+|-------------|------------|
+|   texto 1   |  texto 2   |
+|   texto 3   |  texto 4   |
+
+checkout
+
+- [X] tarefa 1
+- [x] Tarefa 2
+
+
 
 
 <!--
