@@ -11,6 +11,16 @@ ___negrito e italico___
 - Lista 2
     - Sublista
 
+1. Lista 1
+2. Lista 2
+    2.1 . Sublista
+
+Links
+[Texto da imagem](https://www.youtube.com/)
+
+![texto da imagem](https://imagen.research.google/main_gallery_images/a-brain-riding-a-rocketship.jpg)
+
+
 
 <!--
 **wellingt0n-0liveira/wellingt0n-0liveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
