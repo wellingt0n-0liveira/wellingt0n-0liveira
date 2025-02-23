@@ -53,7 +53,7 @@ Active Directory | Servidores Web | Firewall & Segurança
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dracula" width="450px">
+  <img src="https://github-readme-stats.vercel.app/api?username=wellingt0n-0liveira&show_icons=true&theme=dracula" width="450px">
 </div>
 
 
