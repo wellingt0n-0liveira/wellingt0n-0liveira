@@ -1,48 +1,60 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600px">
+  <h1>Olá, eu sou [Seu Nome] 👋</h1>
+  <h3>Analista de Infraestrutura | Automação | Monitoramento</h3>
+</div>
 
+---
 
-*italico* _italico_
+## 🎯 Sobre mim  
+💻 Profissional de infraestrutura, apaixonado por tecnologia e otimização de sistemas.  
+🔧 Trabalho com **Windows & Linux**, automação e monitoramento.  
+📚 Atualmente estudando **Python** para automação e análise de dados.  
 
-**Negrito** ou __negrito__
+---
 
-___negrito e italico___
+## 🛠️ Tecnologias & Ferramentas  
 
-- Lista 1
-- Lista 2
-    - Sublista
+📂 **Sistemas Operacionais:**  
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)  
 
-1. Lista 1
-2. Lista 2
-    2.1 . Sublista
+⚡ **Automação & Scripting:**  
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&style=flat)  
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
 
-Links
-[Texto da imagem](https://www.youtube.com/)
+📊 **Monitoramento:**  
+![Zabbix](https://img.shields.io/badge/-Zabbix-BE2E1A?logo=zabbix&logoColor=white&style=flat)  
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=flat)  
 
-![texto da imagem](https://imagen.research.google/main_gallery_images/a-brain-riding-a-rocketship.jpg)
+🐳 **Contêineres & Virtualização:**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)  
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?&style=plastic&logo=Proxmox&logoColor=white)  
 
-`crase`
+⚙️ **Infraestrutura & Redes:**  
+Active Directory | Servidores Web | Firewall & Segurança  
 
-```bash
-bloco de codigo
-apt install vim
-```
+---
 
-> Texto das Citações
->
->>subcitação, exemplo o nome de que esta citando
+## 🚀 O que estou fazendo agora?  
 
-Tabelas
-| cabeçalho 1 | Cabeçalho 2|
-|-------------|------------|
-|   texto 1   |  texto 2   |
-|   texto 3   |  texto 4   |
+✅ Criando **scripts de automação** para servidores Windows/Linux  
+✅ Aprimorando monitoramento com **Zabbix e Grafana**  
+✅ Estudando **Python** para análise de logs e automação  
 
-checkout
+---
 
-- [X] tarefa 1
-- [x] Tarefa 2
+## 📬 Contato  
 
+📧 **Email:** [seuemail@example.com](mailto:seuemail@example.com)  
+💼 **LinkedIn:** [Seu Perfil](https://linkedin.com/in/seuperfil)  
 
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dracula" width="450px">
+</div>
 
 
 <!--
