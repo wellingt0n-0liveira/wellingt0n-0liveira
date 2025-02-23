@@ -47,8 +47,8 @@ Active Directory | Servidores Web | Firewall & Segurança
 
 ## 📬 Contato  
 
-📧 **Email:** [seuemail@example.com](mailto:seuemail@example.com)  
-💼 **LinkedIn:** [Seu Perfil](https://linkedin.com/in/seuperfil)  
+📧 **Email:** [seuemail@example.com](mailto:lockyy@gmail.com)  
+💼 **LinkedIn:** [Seu Perfil](https://www.linkedin.com/in/wellington-f-oliveira/)  
 
 ---
 
